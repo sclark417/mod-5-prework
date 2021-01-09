@@ -18,3 +18,13 @@ p{
 .styledFont{
     color: greenyellow;
 }
+.big{
+    font-size: xx-large;
+
+}
+.orange{
+    color: orange;
+}
+.bold{
+    font-weight: bolder;
+}
